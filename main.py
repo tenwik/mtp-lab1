@@ -1,0 +1,1 @@
+print("Text analyzer started")
