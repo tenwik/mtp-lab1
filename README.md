@@ -45,6 +45,7 @@ mtp-lab1/
 ├── README.md
 ├── main.py
 └── text_utils.py
+```
 
 ## Основные команды Git
 
